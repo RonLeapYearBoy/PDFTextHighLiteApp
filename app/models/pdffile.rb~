@@ -1,0 +1,2 @@
+class Pdffile < ActiveRecord::Base
+end
