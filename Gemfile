@@ -3,16 +3,16 @@
               gem 'rails',         '4.2.1'
               # Insert these 12 gems after the sqlite3 gem in  the Gemfile.   The version of cairo
               # gem is determined as a prerequiste poppler and/or pango.
-              gem 'gobject-introspection', '~>2.2.5'  # 1
-              gem 'glib2',         '~>2.2.5'          # 2
-              gem 'gtk3',          '~>2.2.5'          # 3
-              gem 'gdk_pixbuf2',   '~>2.2.5'          # 4
-              gem 'poppler',       '~>2.2.5'          # 5
-              gem 'gdk3',          '~>2.2.5'          # 6
-              gem 'atk',           '~>2.2.5'          # 7
-              gem 'pango',         '~>2.2.5'          # 8
-              gem 'carrierwave',   '~>0.10.0'         # 9
-              gem 'passenger',     '=5.0.9'           # 10
+          #    gem 'gobject-introspection', '~>2.2.5'  # 1
+          #    gem 'glib2',         '~>2.2.5'          # 2
+          #    gem 'gtk3',          '~>2.2.5'          # 3
+          #    gem 'gdk_pixbuf2',   '~>2.2.5'          # 4
+           #   gem 'poppler',       '~>2.2.5'          # 5
+           #   gem 'gdk3',          '~>2.2.5'          # 6
+           #   gem 'atk',           '~>2.2.5'          # 7
+           #   gem 'pango',         '~>2.2.5'          # 8
+           #   gem 'carrierwave',   '~>0.10.0'         # 9
+           #  gem 'passenger',     '=5.0.9'           # 10
              # Use sqlite3  for deployment only
               gem 'sqlite3',     group: :development  # 11
              # Use Capistrano for deployment
